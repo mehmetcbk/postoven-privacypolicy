@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **Post Oven**
-**Last Updated: March 21, 2026**
+**Last Updated: March 24, 2026**
 
 ---
 
@@ -142,7 +142,7 @@ The Application is intended for use only by individuals who are 18 years of age 
 
 **11.1** The Application integrates with third-party services to provide its features, including but not limited to:
 
-- **AI Generation Services:** The Application uses third-party AI APIs to generate text and images based on your inputs. Your content inputs may be processed by these services in accordance with their own terms of service and privacy policies.
+- **AI Generation Services:** The Application uses the Google Gemini API (Google LLC) to generate text and images based on your inputs. Your content inputs are processed by Google in accordance with Google's [Privacy Policy](https://policies.google.com/privacy) and [Generative AI Terms of Service](https://ai.google.dev/terms).
 - **In-App Purchase Processing:** In-app purchases are processed by Apple (App Store) or Google (Google Play), as applicable, in accordance with their respective terms and policies.
 
 **11.2** The Licensor is not responsible for the availability, accuracy, or practices of any third-party services. Your use of third-party services is governed by the applicable third-party terms of service and privacy policies.

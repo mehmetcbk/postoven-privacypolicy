@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Post Oven**
-**Last Updated: March 21, 2026**
+**Last Updated: March 24, 2026**
 **Effective Date: March 21, 2026**
 
 ---
@@ -125,7 +125,13 @@ The Application uses the following categories of third-party services. We do not
 
 ### 4.1 AI Generation Services
 
-To generate captions, hashtags, and images, the Application sends your content inputs (including company profile information, post topic, and reference image URLs) to a third-party AI service provider. This processing is necessary to deliver the core functionality of the Application. You acknowledge that your inputs will be processed by this third-party AI service in accordance with its own privacy and data processing policies. We encourage you not to include sensitive personal information in your post topic inputs or company descriptions.
+To generate captions, hashtags, and images, the Application sends your content inputs to **Google Gemini API**, a service operated by Google LLC. The data sent to Google Gemini API includes your company profile information (such as business name, industry, brand tone, and description), post topic text, and reference image URLs (where applicable). This processing is necessary to deliver the core functionality of the Application.
+
+Google processes this data in accordance with its own [Privacy Policy](https://policies.google.com/privacy) and [Generative AI Terms of Service](https://ai.google.dev/terms). Google does not use API-submitted data to train its models by default. Per Google's Generative AI Terms of Service, Google retains API prompts and responses for a limited period solely for detecting and preventing violations of Google's Prohibited Use Policy; this data is not used for any other purpose.
+
+The Application stores your generated outputs (captions, hashtags, and images) in your account for as long as your account remains active or until you delete them. You may delete individual generated posts or your entire account at any time through the Application.
+
+We encourage you not to include sensitive personal information in your post topic inputs or company descriptions.
 
 ### 4.2 In-App Purchase Processing
 
