@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **Post Oven**
-**Last Updated: March 24, 2026**
+**Last Updated: April 3, 2026**
 
 ---
 
@@ -21,7 +21,7 @@ You acknowledge that this Agreement is concluded solely between you and the Lice
 
 ## 2. THE APPLICATION
 
-Post Oven is an AI-powered social media content generation application designed for business owners, marketers, and content creators. The Application enables users to generate social media posts — including captions, hashtags, and AI-generated images — tailored to their brand identity. The Application offers three post generation modes: Text Prompt, Style Match, and Image Transform.
+Post Oven is an AI-powered social media content generation application designed for business owners, marketers, and content creators. The Application enables users to generate social media posts — including captions, hashtags, and AI-generated images — tailored to their brand identity. The Application offers five post generation modes: From Prompt, Showcase, Image Transform, Logo Creation, and Featured Content.
 
 The Application is intended for personal and professional commercial use in accordance with this Agreement and applicable law.
 
