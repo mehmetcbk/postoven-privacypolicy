@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **Post Oven**
-**Last Updated: April 3, 2026**
+**Last Updated: May 9, 2026**
 
 ---
 
@@ -155,7 +155,7 @@ The Application is intended for use only by individuals who are 18 years of age 
 
 Your use of the Application is subject to the Licensor's Privacy Policy, which is incorporated into this Agreement by reference and available at [https://postoven.app/privacy-policy](https://postoven.app/privacy-policy) and within the Application. By using the Application, you consent to the collection, use, and storage of your information as described in the Privacy Policy.
 
-All user data is stored on servers located in the United States. If you are located in the European Union or another jurisdiction with data protection laws, please review the Privacy Policy for information about your rights and how your data is handled.
+User data is stored primarily on servers located in Turkey and may be processed by trusted service providers in the United States and, where necessary, other countries as necessary to provide the Application. If you are located in the European Union or another jurisdiction with data protection laws, please review the Privacy Policy for information about your rights and how your data is handled.
 
 ---
 

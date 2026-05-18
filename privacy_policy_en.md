@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Post Oven**
-**Last Updated: March 24, 2026**
+**Last Updated: May 9, 2026**
 **Effective Date: March 21, 2026**
 
 ---
@@ -14,7 +14,7 @@ By using the Application, you agree to the collection and use of your informatio
 
 **Age Requirement:** The Application is intended solely for users who are 18 years of age or older. We do not knowingly collect information from individuals under the age of 18.
 
-**Data Location:** All user data is stored and processed on servers located in the United States of America, regardless of where you are located. If you are using the Application from outside the United States — including from the European Union — you acknowledge and consent to the transfer of your data to the United States and its processing there in accordance with this Privacy Policy and applicable U.S. law.
+**Data Location:** User data is stored primarily on servers located in Turkey. Some data may be processed by trusted service providers in the United States and, where necessary, other countries as necessary to operate, secure, and deliver the Application. If you are using the Application from outside Turkey — including from the European Union — you acknowledge that your data may be transferred to Turkey, the United States, and other countries in accordance with this Privacy Policy and applicable law.
 
 ---
 
@@ -98,7 +98,7 @@ We may use or disclose your information to comply with applicable laws, regulati
 
 ### 3.1 Data Storage
 
-All user data — including account information, company profiles, reference images, generated posts, and credit records — is stored on servers hosted in the United States. We operate our own self-hosted infrastructure; your data is not shared with any third-party database-as-a-service provider's shared infrastructure.
+User data — including account information, company profiles, generated posts, and credit records — is stored primarily on servers located in Turkey. Uploaded images, generated images, and certain technical data may be stored or processed by trusted service providers in the United States and, where necessary, other countries as necessary to provide the Application. We do not sell your personal data or share it with third parties for their own marketing purposes.
 
 ### 3.2 Data Retention
 
@@ -195,7 +195,7 @@ We process your personal data on the following legal bases:
 
 ### 7.3 International Data Transfers
 
-Your personal data is stored and processed in the United States. The United States may not provide the same level of data protection as the European Union. By using the Application, you acknowledge and consent to the transfer of your personal data to the United States for processing. We take appropriate measures to ensure that your data receives an adequate level of protection.
+Your personal data is stored primarily in Turkey and may be processed in the United States and, where necessary, other countries by trusted service providers as necessary to provide the Application. Turkey, the United States, and those other countries may not provide the same level of data protection as the European Union. We take appropriate measures to ensure that your data receives an adequate level of protection.
 
 ### 7.4 Your GDPR Rights
 
